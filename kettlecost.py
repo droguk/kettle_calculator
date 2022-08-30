@@ -1,3 +1,4 @@
+# Usage: python3 kettlecost.py
 import time
 import os
 mytimer = 0
